@@ -1,0 +1,108 @@
+ *{
+    margin: 0;
+    border: 0;
+    font-family: 'Lato', sans-serif;
+ }
+ .bg-img-1{
+    background-image: url('images/image1.png');
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size: cover;
+    height: 100vh; 
+    background-attachment: fixed;
+}
+
+.bg-img-2{
+    background-image: url('images/image2.png');
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size: cover;
+    height: 400px; 
+    background-attachment: fixed;
+}
+
+.bg-img-3{
+    background-image: url('images/image3.png');
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size: cover;
+    height: 400px; 
+    background-attachment: fixed;
+}
+
+ .heading-1 h1{
+   padding: 20px;
+   margin-left: 500px;
+   background-color: #313534;
+   color: #fff;
+   top: 50%;
+   position: absolute;
+   font-size: 27px;
+   letter-spacing: 8px;
+   text-transform: uppercase;
+   font-weight: 400;
+} 
+
+.heading-2 h1{
+    position: absolute;
+    padding: 20px;
+    margin-left: 500px;
+    background-color: #313534;
+    color: #fff;
+    top: 190%;
+    font-size: 27px;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+    font-weight: 400;
+    width: 350px;
+}
+
+.heading-3 h1{
+    position: relative;
+    padding: 20px;
+    margin-left: 390px;
+    background-color: #313534;
+    color: #fff;
+    top: 200px;
+    font-size: 27px;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+    font-weight: 400;
+    width: 300px;
+    display: inline;
+    text-align: center;
+ } 
+
+ .heading-4 h1{
+    position: relative;
+    padding: 20px;
+    margin-left: 490px;
+    background-color: #313534;
+    color: #fff;
+    top: 310px;
+    font-size: 27px;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+    font-weight: 400;
+    width: 300px;
+    display: inline;
+    text-align: center;
+ } 
+
+.div-2{
+    background-color: #f4f4f4;
+    color: #666;
+    text-align: center;
+    padding: 60px 80px;
+}
+.div-4,.div-6{
+    background-color: #282e34;
+    color: #ddd;
+    text-align: center;
+    padding: 60px 80px;
+}
+.section-text{
+    margin-top: 30px;
+    line-height: 2;
+}
+
